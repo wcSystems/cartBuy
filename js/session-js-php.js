@@ -1,0 +1,1 @@
+$_SESSION = <?php echo json_encode($_SESSION)?>
